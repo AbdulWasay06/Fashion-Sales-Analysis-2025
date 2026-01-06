@@ -11,17 +11,15 @@ The final output is an interactive **Power BI Dashboard** backed by rigorous **S
 
 ### 1. Executive Dashboard (Power BI)
 *The final interactive dashboard used by stakeholders to track KPIs and Returns.*
-![Power BI Dashboard](<img src="screenshots/Fashion_Sales_Dashboard_2025.pngZT" width="350">)
+![Power BI Dashboard](https://github.com/AbdulWasay06/Fashion-Sales-Analysis-2025/blob/main/Fashion_Data_Project/screenshots/Fashion_Sales_Dashboard_2025.png?raw=true)
 
 ### 2. SQL Analysis (Logic Verification)
 *SQL queries used to validate the "Top Selling Categories" before visualization.*
-![SQL Output](screenshots/SQL_Query_Output_2.png)
+![SQL Output](https://github.com/AbdulWasay06/Fashion-Sales-Analysis-2025/blob/main/Fashion_Data_Project/screenshots/SQL_Query_Output%20_2.png?raw=true)
 
 ### 3. Data Processing (Python/Colab)
 *Exploratory Data Analysis (EDA) and cleaning process using Pandas.*
-![Python Charts](screenshots/Executive_Dashboard.png)
-
-*(Note: If images do not load, ensure the files are in a folder named 'screenshots' in this repository)*
+![Python Charts](https://github.com/AbdulWasay06/Fashion-Sales-Analysis-2025/blob/main/Fashion_Data_Project/screenshots/Executive_Dashboard.png?raw=true)
 
 ---
 
